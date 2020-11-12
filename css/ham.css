@@ -1,0 +1,67 @@
+.topmenu{
+    background-color: black;
+opacity: 0.9;
+}
+
+
+.banner{
+    background-image: url(../img/header_desktop.png);
+
+}
+
+
+
+.banner-title{
+    background: rgba(0,0,0,0.4); 
+
+    max-width: 60%;
+} 
+
+.banner-title p{
+    font-size: 30px;
+}
+
+.banner-title .h4{
+font-size: 38px;    
+}
+
+/*header*/
+
+
+.middle{
+    background-color: #efe9e7;
+    }
+
+
+.middle-title-text{
+    font-size: 30px;
+} 
+
+.image-news img{
+    border-radius: 50%;
+} 
+
+.image-news .card{
+
+    background-color: #efe9e7;
+    border: 0;
+}
+
+.image-news h4{
+    font-weight: 600;
+}
+
+.image-news p{
+
+    font-size: 24px;
+}
+
+
+.line-box {
+   width: 20%;
+    height: 2px;
+    background-color: gray;
+   
+
+}
+
