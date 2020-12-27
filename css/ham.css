@@ -218,7 +218,7 @@ padding-right: 25px;
 @media (max-width:768px){
 
     
-    .footer-intro{
+    .aboutUs{
         display: none;
         
     }
@@ -229,7 +229,7 @@ padding-right: 25px;
 @media (max-width:414px){
 
     
-    .footer-intro{
+    .aboutUs{
 justify-content: center;
         margin-bottom: 20px;
     }
